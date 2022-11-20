@@ -144,7 +144,7 @@ let load = document.querySelector(".loading");
 
 setTimeout(() =>{
     load.classList.add('hide-load');
-},1620)
+},9620)
 // 9620
 // ================================================================================================
 
