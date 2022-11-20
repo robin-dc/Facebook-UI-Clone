@@ -861,13 +861,20 @@ main{
     background-color: var(--var-gray1--);
     color:gainsboro;
     border-radius: .5rem;
-    width:5.7rem;
-    padding:.3rem .7rem .5rem .7rem;
+    width:6.1rem;
+    padding:.3rem .5rem .5rem .5rem;
     box-shadow: 0 1px 2px black;
     display: flex;
+    gap:5px;
     align-items: center;
     justify-content: center;
-    gap:1px;
+}
+.del-post i{
+    font-size: 8px;
+    padding:2px 4px;
+    border-radius: 3px;
+    margin-top: 2px;
+    border:1px solid white;
 }
 .dot-menu.active .triangle{
     position:absolute;
