@@ -10,7 +10,7 @@ Responsive pixel perfect facebook clone. This is a project to showcase my attent
 <a href="https://facebook-darkmode-clone.netlify.app" target="_blank"><img src='https://github.com/robin-dc/Facebook-UI-Clone/blob/main/fb.png'></a>
 
 
-## To clone this project using CLI:
+## 🚀 To clone this project using CLI:
 ```sh
 git clone https://github.com/robin-dc/Ryokou-Travel-Agency.git
 ```
@@ -22,11 +22,19 @@ code index.html
 ```
 
 
-## Other noteworthy projects
-Ryokou Travel Agency<br>
+## 📝 Other noteworthy projects
+<strong>Ryokou Travel Agency</strong><br>
 🔗 https://ryokou-travel-agency.netlify.app/<br>
-🐱 https://github.com/robin-dc/Ryokou-Travel-Agency/
-
+🐱 https://github.com/robin-dc/Ryokou-Travel-Agency.git<br>
+<strong>Lofi Clock | Music and Notepad in one.</strong><br>
+🔗 robin-dc.github.io/Lofi-Clock/<br>
+🐱 https://github.com/robin-dc/Lofi-Clock.git<br><br>
+<strong>Landing Pages</strong><br>
+- Easybank https://robin-dc.github.io/Easybank-Landing-Page/ <br>
+- Blogr robin-dc.github.io/Blogr/ <br>
+- Loopstudios robin-dc.github.io/Loopstudios/ <br>
+- Huddle robin-dc.github.io/Huddle-Landing-Page/ <br>
+- Fylo robin-dc.github.io/Fylo-Landing-Page/ <br>
 
 
 
