@@ -23,9 +23,9 @@ code index.html
 
 
 ## Other noteworthy projects
-<h2>Ryokou Travel Agency<h2>
-<a href="https://ryokou-travel-agency.netlify.app/">https://ryokou-travel-agency.netlify.app/</a><br>
-<a href="https://github.com/robin-dc/Ryokou-Travel-Agency">https://github.com/robin-dc/Ryokou-Travel-Agency/</a>
+Ryokou Travel Agency<br>
+https://ryokou-travel-agency.netlify.app/<br>
+https://github.com/robin-dc/Ryokou-Travel-Agency/
 
 
 
