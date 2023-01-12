@@ -13,6 +13,7 @@ Responsive pixel perfect facebook clone. This is a project to showcase my attent
 <a href="https://facebook-darkmode-clone.netlify.app" target="_blank"><img src='https://github.com/robin-dc/Facebook-UI-Clone/blob/main/fb.png'></a>
 
 <br>
+
 ## 🚀 To clone this project using CLI:
 1. Clone the project on your local environment.
 ```sh
@@ -28,6 +29,7 @@ code index.html
 ```
 
 <br>
+
 ## 📝 Other noteworthy projects
 <strong>Ryokou Travel Agency</strong><br>
 🔗 https://ryokou-travel-agency.netlify.app/<br>
