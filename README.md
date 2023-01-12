@@ -3,14 +3,16 @@
 Responsive pixel perfect facebook clone. This is a project to showcase my attention to details <br> https://facebook-darkmode-clone.netlify.app .
 
 <br>
+
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<br><br>
+
+<br>
 <hr>
 
 
 <a href="https://facebook-darkmode-clone.netlify.app" target="_blank"><img src='https://github.com/robin-dc/Facebook-UI-Clone/blob/main/fb.png'></a>
 
-
+<br>
 ## 🚀 To clone this project using CLI:
 1. Clone the project on your local environment.
 ```sh
@@ -25,7 +27,7 @@ cd <project folder>
 code index.html
 ```
 
-
+<br>
 ## 📝 Other noteworthy projects
 <strong>Ryokou Travel Agency</strong><br>
 🔗 https://ryokou-travel-agency.netlify.app/<br>
