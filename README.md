@@ -18,11 +18,11 @@ Responsive pixel perfect facebook clone. This is a project to showcase my attent
 ```sh
 git clone https://github.com/robin-dc/Ryokou-Travel-Agency.git
 ```
-2. Go to the project directory
+2. Go to the project directory.
 ```sh
 cd <project folder>
 ```
-3. Open in Visual Studio
+3. Open in Visual Studio.
 ```sh
 code index.html
 ```
